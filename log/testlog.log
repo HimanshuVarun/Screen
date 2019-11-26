@@ -1,0 +1,1238 @@
+2019-11-08 12:38:10,469 - Test_czentrix -INFO - start before testcase
+2019-11-08 12:38:16,237 - MethodClass -INFO - Firefox Opened
+2019-11-08 12:38:16,246 - MethodClass -INFO - window maximize
+2019-11-08 12:38:17,476 - MethodClass -INFO - call screen shot method
+2019-11-08 12:38:17,702 - MethodClass -INFO -  check url assertion
+2019-11-08 12:38:17,707 - MethodClass -INFO - fill user name
+2019-11-08 12:38:17,753 - MethodClass -INFO - fill password
+2019-11-08 12:38:17,930 - MethodClass -INFO - login success
+2019-11-08 12:38:17,930 - MethodClass -INFO - new session is start
+2019-11-08 12:38:19,056 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 12:38:19,057 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 12:38:19,110 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 12:38:19,125 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 12:38:23,912 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 12:38:23,913 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 12:40:21,357 - Test_czentrix -INFO - start before testcase
+2019-11-08 12:40:27,112 - MethodClass -INFO - Firefox Opened
+2019-11-08 12:40:27,119 - MethodClass -INFO - window maximize
+2019-11-08 12:40:28,231 - MethodClass -INFO - call screen shot method
+2019-11-08 12:40:28,385 - MethodClass -INFO -  check url assertion
+2019-11-08 12:40:28,389 - MethodClass -INFO - fill user name
+2019-11-08 12:40:28,438 - MethodClass -INFO - fill password
+2019-11-08 12:40:28,582 - MethodClass -INFO - login success
+2019-11-08 12:40:28,583 - MethodClass -INFO - new session is start
+2019-11-08 12:40:29,849 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 12:40:29,849 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 12:40:29,885 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 12:40:29,899 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 12:40:34,053 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 12:40:34,054 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 12:42:51,953 - Test_czentrix -INFO - start before testcase
+2019-11-08 12:42:58,300 - MethodClass -INFO - Firefox Opened
+2019-11-08 12:42:58,331 - MethodClass -INFO - window maximize
+2019-11-08 12:42:59,422 - MethodClass -INFO - call screen shot method
+2019-11-08 12:42:59,562 - MethodClass -INFO -  check url assertion
+2019-11-08 12:42:59,565 - MethodClass -INFO - fill user name
+2019-11-08 12:42:59,603 - MethodClass -INFO - fill password
+2019-11-08 12:42:59,791 - MethodClass -INFO - login success
+2019-11-08 12:42:59,792 - MethodClass -INFO - new session is start
+2019-11-08 12:43:01,160 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 12:43:01,161 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 12:43:01,197 - Test_czentrix -INFO - start license testcase
+2019-11-08 12:43:01,595 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 12:43:04,987 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 12:43:05,005 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 12:43:09,333 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 12:43:09,339 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 12:43:09,376 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 12:43:09,393 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 12:43:09,863 - SipChannelsForm -INFO - start loop
+2019-11-08 12:43:14,048 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 12:43:14,048 - SipChannelsForm -INFO - start loop
+2019-11-08 12:43:18,239 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 12:43:18,240 - SipChannelsForm -INFO - start loop
+2019-11-08 12:43:22,502 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 12:43:22,502 - SipChannelsForm -INFO - start loop
+2019-11-08 12:43:26,647 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 12:43:26,876 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-08 12:43:26,910 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 12:43:26,932 - CampaignForm -INFO - start campaign method
+2019-11-08 12:43:27,500 - CampaignForm -INFO - fill Campagn details
+2019-11-08 12:43:31,435 - CampaignForm -INFO - campaign creation successful
+2019-11-08 12:43:34,274 - CampaignForm -INFO - Disp creation successful
+2019-11-08 12:43:35,636 - CampaignForm -INFO - closed campaign method
+2019-11-08 12:43:35,656 - Test_czentrix -INFO - start agent testcase
+2019-11-08 12:43:35,676 - AgentForm -INFO - agent method is started
+2019-11-08 12:43:36,357 - AgentForm -INFO - start for loop
+2019-11-08 12:43:37,456 - AgentForm -INFO - handle alert
+2019-11-08 12:43:38,408 - AgentForm -INFO - start for loop
+2019-11-08 12:43:39,483 - AgentForm -INFO - handle alert
+2019-11-08 12:43:40,509 - AgentForm -INFO - start for loop
+2019-11-08 12:43:41,620 - AgentForm -INFO - handle alert
+2019-11-08 12:43:42,528 - AgentForm -INFO - start for loop
+2019-11-08 12:43:43,659 - AgentForm -INFO - handle alert
+2019-11-08 12:43:44,555 - AgentForm -INFO - start for loop
+2019-11-08 12:43:45,662 - AgentForm -INFO - handle alert
+2019-11-08 12:43:46,570 - AgentForm -INFO - start for loop
+2019-11-08 12:43:47,517 - AgentForm -INFO - handle alert
+2019-11-08 12:43:48,692 - AgentForm -INFO - agent creation successful
+2019-11-08 12:43:48,692 - AgentForm -INFO - agent method is closed
+2019-11-08 12:43:48,709 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 12:43:48,722 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 12:43:51,786 - Sip_channel_configuration_Form -INFO - sip channel creation successful
+2019-11-08 12:43:51,787 - Sip_channel_configuration_Form -INFO - closed sip channel configuration
+2019-11-08 12:43:51,787 - Test_czentrix -INFO - close sip channel configuration test
+2019-11-08 12:43:51,812 - Test_czentrix -INFO - start list testcase
+2019-11-08 12:43:51,828 - ListsForm -INFO - start list method
+2019-11-08 12:43:53,802 - ListsForm -INFO - start loop
+2019-11-08 12:43:58,894 - ListsForm -INFO - list creation successful
+2019-11-08 12:43:58,895 - ListsForm -INFO - handle alert
+2019-11-08 12:44:00,394 - ListsForm -INFO - start loop
+2019-11-08 12:44:05,497 - ListsForm -INFO - list creation successful
+2019-11-08 12:44:05,498 - ListsForm -INFO - handle alert
+2019-11-08 12:44:06,595 - ListsForm -INFO - start loop
+2019-11-08 12:44:11,893 - ListsForm -INFO - list creation successful
+2019-11-08 12:44:11,893 - ListsForm -INFO - handle alert
+2019-11-08 12:44:13,098 - ListsForm -INFO - start loop
+2019-11-08 12:44:18,267 - ListsForm -INFO - list creation successful
+2019-11-08 12:44:18,268 - ListsForm -INFO - handle alert
+2019-11-08 12:44:19,596 - ListsForm -INFO - closed list method
+2019-11-08 12:44:19,613 - Test_czentrix -INFO - start uploadList test
+2019-11-08 12:44:20,007 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 12:44:23,759 - Test_czentrix -INFO - close apply configuration test
+2019-11-08 12:45:13,693 - Test_czentrix -INFO - start before testcase
+2019-11-08 12:45:19,963 - MethodClass -INFO - Firefox Opened
+2019-11-08 12:45:19,970 - MethodClass -INFO - window maximize
+2019-11-08 12:45:24,057 - MethodClass -INFO - call screen shot method
+2019-11-08 12:45:24,195 - MethodClass -INFO -  check url assertion
+2019-11-08 12:45:24,198 - MethodClass -INFO - fill user name
+2019-11-08 12:45:24,237 - MethodClass -INFO - fill password
+2019-11-08 12:45:24,858 - MethodClass -INFO - login success
+2019-11-08 12:45:24,859 - MethodClass -INFO - new session is start
+2019-11-08 12:45:26,051 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 12:45:26,052 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 12:45:26,121 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 12:45:41,619 - Test_czentrix -INFO - close tdm  test
+2019-11-08 12:48:48,943 - Test_czentrix -INFO - start before testcase
+2019-11-08 12:48:54,724 - MethodClass -INFO - Firefox Opened
+2019-11-08 12:48:54,732 - MethodClass -INFO - window maximize
+2019-11-08 12:48:55,898 - MethodClass -INFO - call screen shot method
+2019-11-08 12:48:56,029 - MethodClass -INFO -  check url assertion
+2019-11-08 12:48:56,033 - MethodClass -INFO - fill user name
+2019-11-08 12:48:56,089 - MethodClass -INFO - fill password
+2019-11-08 12:48:56,247 - MethodClass -INFO - login success
+2019-11-08 12:48:56,248 - MethodClass -INFO - new session is start
+2019-11-08 12:48:57,737 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 12:48:57,737 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 12:48:57,765 - Test_czentrix -INFO - start uploadList test
+2019-11-08 13:14:09,403 - Test_czentrix -INFO - start before testcase
+2019-11-08 13:14:15,863 - MethodClass -INFO - Firefox Opened
+2019-11-08 13:14:15,872 - MethodClass -INFO - window maximize
+2019-11-08 13:14:17,213 - MethodClass -INFO - call screen shot method
+2019-11-08 13:14:17,354 - MethodClass -INFO -  check url assertion
+2019-11-08 13:14:17,359 - MethodClass -INFO - fill user name
+2019-11-08 13:14:17,409 - MethodClass -INFO - fill password
+2019-11-08 13:14:17,553 - MethodClass -INFO - login success
+2019-11-08 13:14:17,553 - MethodClass -INFO - new session is start
+2019-11-08 13:14:18,943 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 13:14:18,944 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 13:14:19,004 - Test_czentrix -INFO - start uploadList test
+2019-11-08 13:17:55,560 - Test_czentrix -INFO - start before testcase
+2019-11-08 13:18:02,058 - MethodClass -INFO - Firefox Opened
+2019-11-08 13:18:02,065 - MethodClass -INFO - window maximize
+2019-11-08 13:18:03,214 - MethodClass -INFO - call screen shot method
+2019-11-08 13:18:03,494 - MethodClass -INFO -  check url assertion
+2019-11-08 13:18:03,505 - MethodClass -INFO - fill user name
+2019-11-08 13:18:03,579 - MethodClass -INFO - fill password
+2019-11-08 13:18:03,773 - MethodClass -INFO - login success
+2019-11-08 13:18:03,774 - MethodClass -INFO - new session is start
+2019-11-08 13:18:05,266 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 13:18:05,267 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 13:18:05,303 - Test_czentrix -INFO - start uploadList test
+2019-11-08 13:26:31,447 - Test_czentrix -INFO - start before testcase
+2019-11-08 13:26:37,853 - MethodClass -INFO - Firefox Opened
+2019-11-08 13:26:37,865 - MethodClass -INFO - window maximize
+2019-11-08 13:26:39,835 - MethodClass -INFO - call screen shot method
+2019-11-08 13:26:40,035 - MethodClass -INFO -  check url assertion
+2019-11-08 13:26:40,041 - MethodClass -INFO - fill user name
+2019-11-08 13:26:40,113 - MethodClass -INFO - fill password
+2019-11-08 13:26:40,377 - MethodClass -INFO - login success
+2019-11-08 13:26:40,378 - MethodClass -INFO - new session is start
+2019-11-08 13:26:42,321 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 13:26:42,323 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 13:26:42,388 - Test_czentrix -INFO - start uploadList test
+2019-11-08 13:26:46,069 - Test_czentrix -INFO - close uploadList test
+2019-11-08 13:51:18,009 - Test_czentrix -INFO - start before testcase
+2019-11-08 13:51:24,211 - MethodClass -INFO - Firefox Opened
+2019-11-08 13:51:24,219 - MethodClass -INFO - window maximize
+2019-11-08 13:51:25,478 - MethodClass -INFO - call screen shot method
+2019-11-08 13:51:25,670 - MethodClass -INFO -  check url assertion
+2019-11-08 13:51:25,675 - MethodClass -INFO - fill user name
+2019-11-08 13:51:25,735 - MethodClass -INFO - fill password
+2019-11-08 13:51:25,905 - MethodClass -INFO - login success
+2019-11-08 13:51:25,905 - MethodClass -INFO - new session is start
+2019-11-08 13:51:27,234 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 13:51:27,234 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 13:51:27,278 - Test_czentrix -INFO - start license testcase
+2019-11-08 13:51:27,647 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 13:51:41,702 - Test_czentrix -INFO - close tdm  test
+2019-11-08 13:51:41,730 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 13:51:41,739 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 13:51:45,558 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 13:51:45,558 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 13:51:45,584 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 13:51:45,601 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 13:51:45,986 - SipChannelsForm -INFO - start loop
+2019-11-08 13:51:49,637 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 13:51:49,637 - SipChannelsForm -INFO - start loop
+2019-11-08 13:51:53,368 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 13:51:53,369 - SipChannelsForm -INFO - start loop
+2019-11-08 13:51:57,192 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 13:51:57,193 - SipChannelsForm -INFO - start loop
+2019-11-08 13:52:00,900 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 13:52:01,141 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-08 13:52:01,164 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 13:52:01,183 - CampaignForm -INFO - start campaign method
+2019-11-08 13:52:01,780 - CampaignForm -INFO - fill Campagn details
+2019-11-08 13:52:05,472 - CampaignForm -INFO - campaign creation successful
+2019-11-08 13:52:07,904 - CampaignForm -INFO - Disp creation successful
+2019-11-08 13:52:09,182 - CampaignForm -INFO - closed campaign method
+2019-11-08 13:52:09,229 - Test_czentrix -INFO - start agent testcase
+2019-11-08 13:52:09,248 - AgentForm -INFO - agent method is started
+2019-11-08 13:52:10,274 - AgentForm -INFO - start for loop
+2019-11-08 13:52:11,168 - AgentForm -INFO - handle alert
+2019-11-08 13:52:12,018 - AgentForm -INFO - start for loop
+2019-11-08 13:52:12,962 - AgentForm -INFO - handle alert
+2019-11-08 13:52:13,823 - AgentForm -INFO - start for loop
+2019-11-08 13:52:14,743 - AgentForm -INFO - handle alert
+2019-11-08 13:52:16,243 - AgentForm -INFO - start for loop
+2019-11-08 13:52:17,283 - AgentForm -INFO - handle alert
+2019-11-08 13:52:18,169 - AgentForm -INFO - start for loop
+2019-11-08 13:52:19,171 - AgentForm -INFO - handle alert
+2019-11-08 13:52:20,118 - AgentForm -INFO - start for loop
+2019-11-08 13:52:21,081 - AgentForm -INFO - handle alert
+2019-11-08 13:52:23,220 - AgentForm -INFO - agent creation successful
+2019-11-08 13:52:23,221 - AgentForm -INFO - agent method is closed
+2019-11-08 13:52:23,235 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 13:52:23,248 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 13:52:26,861 - Sip_channel_configuration_Form -INFO - sip channel creation successful
+2019-11-08 13:52:26,862 - Sip_channel_configuration_Form -INFO - closed sip channel configuration
+2019-11-08 13:52:26,862 - Test_czentrix -INFO - close sip channel configuration test
+2019-11-08 13:52:26,879 - Test_czentrix -INFO - start list testcase
+2019-11-08 13:52:26,903 - ListsForm -INFO - start list method
+2019-11-08 13:52:28,847 - ListsForm -INFO - start loop
+2019-11-08 13:52:34,002 - ListsForm -INFO - list creation successful
+2019-11-08 13:52:34,002 - ListsForm -INFO - handle alert
+2019-11-08 13:52:39,762 - ListsForm -INFO - start loop
+2019-11-08 13:52:44,974 - ListsForm -INFO - list creation successful
+2019-11-08 13:52:44,975 - ListsForm -INFO - handle alert
+2019-11-08 13:52:46,047 - ListsForm -INFO - start loop
+2019-11-08 13:52:51,255 - ListsForm -INFO - list creation successful
+2019-11-08 13:52:51,256 - ListsForm -INFO - handle alert
+2019-11-08 13:52:52,580 - ListsForm -INFO - start loop
+2019-11-08 13:52:57,657 - ListsForm -INFO - list creation successful
+2019-11-08 13:52:57,657 - ListsForm -INFO - handle alert
+2019-11-08 13:52:58,849 - ListsForm -INFO - closed list method
+2019-11-08 13:52:58,871 - Test_czentrix -INFO - start uploadList test
+2019-11-08 13:53:02,210 - Test_czentrix -INFO - close uploadList test
+2019-11-08 13:53:02,234 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 13:53:05,864 - Test_czentrix -INFO - close apply configuration test
+2019-11-08 14:29:58,696 - Test_czentrix -INFO - start before testcase
+2019-11-08 14:30:04,463 - MethodClass -INFO - Firefox Opened
+2019-11-08 14:30:04,471 - MethodClass -INFO - window maximize
+2019-11-08 14:30:06,015 - MethodClass -INFO - call screen shot method
+2019-11-08 14:30:06,220 - MethodClass -INFO -  check url assertion
+2019-11-08 14:30:06,223 - MethodClass -INFO - fill user name
+2019-11-08 14:30:06,266 - MethodClass -INFO - fill password
+2019-11-08 14:30:06,408 - MethodClass -INFO - login success
+2019-11-08 14:30:06,408 - MethodClass -INFO - new session is start
+2019-11-08 14:30:09,490 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 14:30:09,494 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 14:30:09,571 - Test_czentrix -INFO - start license testcase
+2019-11-08 14:30:09,998 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 14:30:13,375 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 14:30:13,381 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 14:30:17,976 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 14:30:17,980 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 14:30:18,046 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 14:30:18,062 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 14:30:18,624 - SipChannelsForm -INFO - start loop
+2019-11-08 14:30:23,336 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:30:23,337 - SipChannelsForm -INFO - start loop
+2019-11-08 14:30:27,385 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:30:27,385 - SipChannelsForm -INFO - start loop
+2019-11-08 14:30:31,497 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:30:31,498 - SipChannelsForm -INFO - start loop
+2019-11-08 14:30:35,557 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:30:35,809 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-08 14:30:35,846 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 14:30:35,879 - CampaignForm -INFO - start campaign method
+2019-11-08 14:30:36,503 - CampaignForm -INFO - fill Campagn details
+2019-11-08 14:30:40,432 - CampaignForm -INFO - campaign creation successful
+2019-11-08 14:30:43,110 - CampaignForm -INFO - Disp creation successful
+2019-11-08 14:30:44,428 - CampaignForm -INFO - closed campaign method
+2019-11-08 14:30:44,456 - Test_czentrix -INFO - start agent testcase
+2019-11-08 14:30:44,482 - AgentForm -INFO - agent method is started
+2019-11-08 14:30:45,226 - AgentForm -INFO - start for loop
+2019-11-08 14:30:46,318 - AgentForm -INFO - handle alert
+2019-11-08 14:30:47,270 - AgentForm -INFO - start for loop
+2019-11-08 14:30:48,325 - AgentForm -INFO - handle alert
+2019-11-08 14:30:49,250 - AgentForm -INFO - start for loop
+2019-11-08 14:30:50,388 - AgentForm -INFO - handle alert
+2019-11-08 14:30:51,337 - AgentForm -INFO - start for loop
+2019-11-08 14:30:52,411 - AgentForm -INFO - handle alert
+2019-11-08 14:30:53,348 - AgentForm -INFO - start for loop
+2019-11-08 14:30:54,469 - AgentForm -INFO - handle alert
+2019-11-08 14:30:55,515 - AgentForm -INFO - start for loop
+2019-11-08 14:30:56,600 - AgentForm -INFO - handle alert
+2019-11-08 14:30:57,747 - AgentForm -INFO - agent creation successful
+2019-11-08 14:30:57,748 - AgentForm -INFO - agent method is closed
+2019-11-08 14:30:57,797 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 14:30:57,817 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 14:31:00,553 - Sip_channel_configuration_Form -INFO - sip channel creation successful
+2019-11-08 14:31:00,553 - Sip_channel_configuration_Form -INFO - closed sip channel configuration
+2019-11-08 14:31:00,554 - Test_czentrix -INFO - close sip channel configuration test
+2019-11-08 14:31:00,581 - Test_czentrix -INFO - start list testcase
+2019-11-08 14:31:00,605 - ListsForm -INFO - start list method
+2019-11-08 14:31:03,062 - ListsForm -INFO - start loop
+2019-11-08 14:31:08,278 - ListsForm -INFO - list creation successful
+2019-11-08 14:31:08,278 - ListsForm -INFO - handle alert
+2019-11-08 14:31:09,446 - ListsForm -INFO - start loop
+2019-11-08 14:31:14,640 - ListsForm -INFO - list creation successful
+2019-11-08 14:31:14,640 - ListsForm -INFO - handle alert
+2019-11-08 14:31:15,984 - ListsForm -INFO - start loop
+2019-11-08 14:31:21,198 - ListsForm -INFO - list creation successful
+2019-11-08 14:31:21,198 - ListsForm -INFO - handle alert
+2019-11-08 14:31:22,323 - ListsForm -INFO - start loop
+2019-11-08 14:31:27,579 - ListsForm -INFO - list creation successful
+2019-11-08 14:31:27,581 - ListsForm -INFO - handle alert
+2019-11-08 14:31:28,923 - ListsForm -INFO - closed list method
+2019-11-08 14:31:28,945 - Test_czentrix -INFO - start uploadList test
+2019-11-08 14:31:32,307 - Test_czentrix -INFO - close uploadList test
+2019-11-08 14:31:32,333 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 14:31:36,024 - Test_czentrix -INFO - close apply configuration test
+2019-11-08 14:36:17,569 - Test_czentrix -INFO - start before testcase
+2019-11-08 14:36:23,998 - MethodClass -INFO - Firefox Opened
+2019-11-08 14:36:24,008 - MethodClass -INFO - window maximize
+2019-11-08 14:36:25,775 - MethodClass -INFO - call screen shot method
+2019-11-08 14:36:25,941 - MethodClass -INFO -  check url assertion
+2019-11-08 14:36:25,945 - MethodClass -INFO - fill user name
+2019-11-08 14:36:25,986 - MethodClass -INFO - fill password
+2019-11-08 14:36:26,130 - MethodClass -INFO - login success
+2019-11-08 14:36:26,131 - MethodClass -INFO - new session is start
+2019-11-08 14:36:27,565 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 14:36:27,566 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 14:36:27,612 - Test_czentrix -INFO - start license testcase
+2019-11-08 14:36:28,026 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 14:36:42,905 - Test_czentrix -INFO - close tdm  test
+2019-11-08 14:36:42,946 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 14:36:42,967 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 14:36:47,361 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 14:36:47,362 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 14:36:47,418 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 14:36:47,436 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 14:36:47,862 - SipChannelsForm -INFO - start loop
+2019-11-08 14:36:52,019 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:36:52,019 - SipChannelsForm -INFO - start loop
+2019-11-08 14:36:56,103 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:36:56,104 - SipChannelsForm -INFO - start loop
+2019-11-08 14:37:00,368 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:37:00,368 - SipChannelsForm -INFO - start loop
+2019-11-08 14:37:04,571 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:37:05,154 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-08 14:37:05,225 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 14:37:05,243 - CampaignForm -INFO - start campaign method
+2019-11-08 14:37:05,835 - CampaignForm -INFO - fill Campagn details
+2019-11-08 14:37:10,123 - CampaignForm -INFO - campaign creation successful
+2019-11-08 14:37:14,677 - CampaignForm -INFO - Disp creation successful
+2019-11-08 14:37:16,282 - CampaignForm -INFO - closed campaign method
+2019-11-08 14:37:16,312 - Test_czentrix -INFO - start agent testcase
+2019-11-08 14:37:16,333 - AgentForm -INFO - agent method is started
+2019-11-08 14:37:17,169 - AgentForm -INFO - start for loop
+2019-11-08 14:37:18,293 - AgentForm -INFO - handle alert
+2019-11-08 14:37:19,240 - AgentForm -INFO - start for loop
+2019-11-08 14:37:20,377 - AgentForm -INFO - handle alert
+2019-11-08 14:37:21,339 - AgentForm -INFO - start for loop
+2019-11-08 14:37:22,447 - AgentForm -INFO - handle alert
+2019-11-08 14:37:23,469 - AgentForm -INFO - start for loop
+2019-11-08 14:37:24,634 - AgentForm -INFO - handle alert
+2019-11-08 14:37:25,599 - AgentForm -INFO - start for loop
+2019-11-08 14:37:26,756 - AgentForm -INFO - handle alert
+2019-11-08 14:37:27,785 - AgentForm -INFO - start for loop
+2019-11-08 14:37:28,853 - AgentForm -INFO - handle alert
+2019-11-08 14:37:30,265 - AgentForm -INFO - agent creation successful
+2019-11-08 14:37:30,265 - AgentForm -INFO - agent method is closed
+2019-11-08 14:37:30,284 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 14:37:30,301 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 14:37:32,970 - Sip_channel_configuration_Form -INFO - sip channel creation successful
+2019-11-08 14:37:32,970 - Sip_channel_configuration_Form -INFO - closed sip channel configuration
+2019-11-08 14:37:32,971 - Test_czentrix -INFO - close sip channel configuration test
+2019-11-08 14:37:32,996 - Test_czentrix -INFO - start list testcase
+2019-11-08 14:37:33,019 - ListsForm -INFO - start list method
+2019-11-08 14:37:34,944 - ListsForm -INFO - start loop
+2019-11-08 14:37:40,262 - ListsForm -INFO - list creation successful
+2019-11-08 14:37:40,263 - ListsForm -INFO - handle alert
+2019-11-08 14:37:41,414 - ListsForm -INFO - start loop
+2019-11-08 14:37:46,636 - ListsForm -INFO - list creation successful
+2019-11-08 14:37:46,637 - ListsForm -INFO - handle alert
+2019-11-08 14:37:47,780 - ListsForm -INFO - start loop
+2019-11-08 14:37:52,990 - ListsForm -INFO - list creation successful
+2019-11-08 14:37:52,990 - ListsForm -INFO - handle alert
+2019-11-08 14:37:54,091 - ListsForm -INFO - start loop
+2019-11-08 14:37:59,319 - ListsForm -INFO - list creation successful
+2019-11-08 14:37:59,319 - ListsForm -INFO - handle alert
+2019-11-08 14:38:01,094 - ListsForm -INFO - closed list method
+2019-11-08 14:38:01,120 - Test_czentrix -INFO - start uploadList test
+2019-11-08 14:38:04,488 - Test_czentrix -INFO - close uploadList test
+2019-11-08 14:38:04,532 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 14:38:08,520 - Test_czentrix -INFO - close apply configuration test
+2019-11-08 14:43:09,305 - Test_czentrix -INFO - start before testcase
+2019-11-08 14:43:14,993 - MethodClass -INFO - Firefox Opened
+2019-11-08 14:43:15,070 - MethodClass -INFO - window maximize
+2019-11-08 14:43:15,896 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 14:43:15,978 - Test_czentrix -INFO - start license testcase
+2019-11-08 14:43:16,054 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 14:43:16,107 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 14:43:16,131 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 14:43:16,175 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 14:43:16,186 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 14:43:16,205 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 14:43:16,222 - CampaignForm -INFO - start campaign method
+2019-11-08 14:43:16,260 - Test_czentrix -INFO - start agent testcase
+2019-11-08 14:43:16,278 - AgentForm -INFO - agent method is started
+2019-11-08 14:43:16,304 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 14:43:16,318 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 14:43:16,344 - Test_czentrix -INFO - start list testcase
+2019-11-08 14:43:16,360 - ListsForm -INFO - start list method
+2019-11-08 14:43:16,390 - Test_czentrix -INFO - start uploadList test
+2019-11-08 14:43:16,417 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 14:43:48,634 - Test_czentrix -INFO - start before testcase
+2019-11-08 14:43:54,976 - MethodClass -INFO - Firefox Opened
+2019-11-08 14:43:54,987 - MethodClass -INFO - window maximize
+2019-11-08 14:43:55,304 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 14:43:55,344 - Test_czentrix -INFO - start license testcase
+2019-11-08 14:43:55,460 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 14:43:55,496 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 14:43:55,511 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 14:43:55,537 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 14:43:55,551 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 14:43:55,577 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 14:43:55,596 - CampaignForm -INFO - start campaign method
+2019-11-08 14:43:55,627 - Test_czentrix -INFO - start agent testcase
+2019-11-08 14:43:55,643 - AgentForm -INFO - agent method is started
+2019-11-08 14:43:55,667 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 14:43:55,680 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 14:43:55,709 - Test_czentrix -INFO - start list testcase
+2019-11-08 14:43:55,722 - ListsForm -INFO - start list method
+2019-11-08 14:43:55,746 - Test_czentrix -INFO - start uploadList test
+2019-11-08 14:43:55,771 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 14:45:09,751 - Test_czentrix -INFO - start before testcase
+2019-11-08 14:45:15,493 - MethodClass -INFO - Firefox Opened
+2019-11-08 14:45:15,504 - MethodClass -INFO - window maximize
+2019-11-08 14:45:15,821 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 14:45:15,868 - Test_czentrix -INFO - start license testcase
+2019-11-08 14:45:15,965 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 14:45:15,997 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 14:45:16,014 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 14:45:16,053 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 14:45:16,066 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 14:45:16,088 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 14:45:16,102 - CampaignForm -INFO - start campaign method
+2019-11-08 14:45:16,125 - Test_czentrix -INFO - start agent testcase
+2019-11-08 14:45:16,141 - AgentForm -INFO - agent method is started
+2019-11-08 14:45:16,163 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 14:45:16,179 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 14:45:16,205 - Test_czentrix -INFO - start list testcase
+2019-11-08 14:45:16,221 - ListsForm -INFO - start list method
+2019-11-08 14:45:16,245 - Test_czentrix -INFO - start uploadList test
+2019-11-08 14:45:16,291 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 14:45:50,125 - Test_czentrix -INFO - start before testcase
+2019-11-08 14:45:55,973 - MethodClass -INFO - Firefox Opened
+2019-11-08 14:45:55,983 - MethodClass -INFO - window maximize
+2019-11-08 14:45:56,351 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 14:45:56,398 - Test_czentrix -INFO - start license testcase
+2019-11-08 14:45:56,456 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 14:45:56,499 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 14:45:56,507 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 14:45:56,534 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 14:45:56,550 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 14:45:56,575 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 14:45:56,590 - CampaignForm -INFO - start campaign method
+2019-11-08 14:45:56,620 - Test_czentrix -INFO - start agent testcase
+2019-11-08 14:45:56,674 - AgentForm -INFO - agent method is started
+2019-11-08 14:45:56,707 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 14:45:56,724 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 14:45:56,773 - Test_czentrix -INFO - start list testcase
+2019-11-08 14:45:56,798 - ListsForm -INFO - start list method
+2019-11-08 14:45:56,869 - Test_czentrix -INFO - start uploadList test
+2019-11-08 14:45:56,912 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 14:47:52,684 - Test_czentrix -INFO - start before testcase
+2019-11-08 14:47:59,120 - MethodClass -INFO - Firefox Opened
+2019-11-08 14:47:59,126 - MethodClass -INFO - window maximize
+2019-11-08 14:48:00,577 - MethodClass -INFO - call screen shot method
+2019-11-08 14:48:00,731 - MethodClass -INFO -  check url assertion
+2019-11-08 14:48:00,735 - MethodClass -INFO - fill user name
+2019-11-08 14:48:00,785 - MethodClass -INFO - fill password
+2019-11-08 14:48:00,932 - MethodClass -INFO - login success
+2019-11-08 14:48:00,933 - MethodClass -INFO - new session is start
+2019-11-08 14:48:02,787 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 14:48:02,787 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 14:48:02,822 - Test_czentrix -INFO - start license testcase
+2019-11-08 14:48:03,277 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 14:48:06,769 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 14:48:06,793 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 14:48:11,335 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 14:48:11,337 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 14:48:11,365 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 14:48:11,384 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 14:48:11,823 - SipChannelsForm -INFO - start loop
+2019-11-08 14:48:16,257 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:48:16,258 - SipChannelsForm -INFO - start loop
+2019-11-08 14:48:20,652 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:48:20,652 - SipChannelsForm -INFO - start loop
+2019-11-08 14:48:25,125 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:48:25,126 - SipChannelsForm -INFO - start loop
+2019-11-08 14:48:29,421 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:48:29,887 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-08 14:48:29,950 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 14:48:29,975 - CampaignForm -INFO - start campaign method
+2019-11-08 14:48:30,797 - CampaignForm -INFO - fill Campagn details
+2019-11-08 14:48:35,432 - CampaignForm -INFO - campaign creation successful
+2019-11-08 14:48:38,530 - CampaignForm -INFO - Disp creation successful
+2019-11-08 14:48:40,313 - CampaignForm -INFO - closed campaign method
+2019-11-08 14:48:40,338 - Test_czentrix -INFO - start agent testcase
+2019-11-08 14:48:40,365 - AgentForm -INFO - agent method is started
+2019-11-08 14:48:41,393 - AgentForm -INFO - start for loop
+2019-11-08 14:48:42,548 - AgentForm -INFO - handle alert
+2019-11-08 14:48:43,446 - AgentForm -INFO - start for loop
+2019-11-08 14:48:44,535 - AgentForm -INFO - handle alert
+2019-11-08 14:48:45,732 - AgentForm -INFO - start for loop
+2019-11-08 14:48:46,925 - AgentForm -INFO - handle alert
+2019-11-08 14:48:47,790 - AgentForm -INFO - start for loop
+2019-11-08 14:48:48,848 - AgentForm -INFO - handle alert
+2019-11-08 14:48:49,768 - AgentForm -INFO - start for loop
+2019-11-08 14:48:50,849 - AgentForm -INFO - handle alert
+2019-11-08 14:48:51,767 - AgentForm -INFO - start for loop
+2019-11-08 14:48:52,856 - AgentForm -INFO - handle alert
+2019-11-08 14:48:54,105 - AgentForm -INFO - agent creation successful
+2019-11-08 14:48:54,105 - AgentForm -INFO - agent method is closed
+2019-11-08 14:48:54,167 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 14:48:54,191 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 14:48:56,854 - Sip_channel_configuration_Form -INFO - sip channel creation successful
+2019-11-08 14:48:56,854 - Sip_channel_configuration_Form -INFO - closed sip channel configuration
+2019-11-08 14:48:56,855 - Test_czentrix -INFO - close sip channel configuration test
+2019-11-08 14:48:56,881 - Test_czentrix -INFO - start list testcase
+2019-11-08 14:48:56,909 - ListsForm -INFO - start list method
+2019-11-08 14:48:58,858 - ListsForm -INFO - start loop
+2019-11-08 14:49:04,007 - ListsForm -INFO - list creation successful
+2019-11-08 14:49:04,008 - ListsForm -INFO - handle alert
+2019-11-08 14:49:05,092 - ListsForm -INFO - start loop
+2019-11-08 14:49:10,355 - ListsForm -INFO - list creation successful
+2019-11-08 14:49:10,355 - ListsForm -INFO - handle alert
+2019-11-08 14:49:11,558 - ListsForm -INFO - start loop
+2019-11-08 14:49:16,681 - ListsForm -INFO - list creation successful
+2019-11-08 14:49:16,682 - ListsForm -INFO - handle alert
+2019-11-08 14:49:17,818 - ListsForm -INFO - start loop
+2019-11-08 14:49:23,070 - ListsForm -INFO - list creation successful
+2019-11-08 14:49:23,071 - ListsForm -INFO - handle alert
+2019-11-08 14:49:24,560 - ListsForm -INFO - closed list method
+2019-11-08 14:49:24,625 - Test_czentrix -INFO - start uploadList test
+2019-11-08 14:49:28,040 - Test_czentrix -INFO - close uploadList test
+2019-11-08 14:49:28,073 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 14:49:31,857 - Test_czentrix -INFO - close apply configuration test
+2019-11-08 14:50:13,557 - Test_czentrix -INFO - start before testcase
+2019-11-08 14:50:19,994 - MethodClass -INFO - Firefox Opened
+2019-11-08 14:50:20,000 - MethodClass -INFO - window maximize
+2019-11-08 14:50:21,364 - MethodClass -INFO - call screen shot method
+2019-11-08 14:50:21,533 - MethodClass -INFO -  check url assertion
+2019-11-08 14:50:21,536 - MethodClass -INFO - fill user name
+2019-11-08 14:50:21,581 - MethodClass -INFO - fill password
+2019-11-08 14:50:21,969 - MethodClass -INFO - login success
+2019-11-08 14:50:21,971 - MethodClass -INFO - new session is start
+2019-11-08 14:50:23,226 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 14:50:23,227 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 14:50:23,267 - Test_czentrix -INFO - start license testcase
+2019-11-08 14:50:23,677 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 14:50:39,657 - Test_czentrix -INFO - close tdm  test
+2019-11-08 14:50:39,682 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 14:50:39,701 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 14:50:44,041 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 14:50:44,042 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 14:50:44,087 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 14:50:44,120 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 14:50:44,553 - SipChannelsForm -INFO - start loop
+2019-11-08 14:50:48,820 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:50:48,821 - SipChannelsForm -INFO - start loop
+2019-11-08 14:50:52,920 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:50:52,921 - SipChannelsForm -INFO - start loop
+2019-11-08 14:50:57,036 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:50:57,037 - SipChannelsForm -INFO - start loop
+2019-11-08 14:51:01,690 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:51:03,305 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-08 14:51:03,378 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 14:51:03,417 - CampaignForm -INFO - start campaign method
+2019-11-08 14:51:04,004 - CampaignForm -INFO - fill Campagn details
+2019-11-08 14:51:08,249 - CampaignForm -INFO - campaign creation successful
+2019-11-08 14:51:11,258 - CampaignForm -INFO - Disp creation successful
+2019-11-08 14:51:12,715 - CampaignForm -INFO - closed campaign method
+2019-11-08 14:51:12,744 - Test_czentrix -INFO - start agent testcase
+2019-11-08 14:51:12,761 - AgentForm -INFO - agent method is started
+2019-11-08 14:51:13,447 - AgentForm -INFO - start for loop
+2019-11-08 14:51:14,657 - AgentForm -INFO - handle alert
+2019-11-08 14:51:15,545 - AgentForm -INFO - start for loop
+2019-11-08 14:51:16,633 - AgentForm -INFO - handle alert
+2019-11-08 14:51:17,570 - AgentForm -INFO - start for loop
+2019-11-08 14:51:18,740 - AgentForm -INFO - handle alert
+2019-11-08 14:51:19,678 - AgentForm -INFO - start for loop
+2019-11-08 14:51:20,858 - AgentForm -INFO - handle alert
+2019-11-08 14:51:21,847 - AgentForm -INFO - start for loop
+2019-11-08 14:51:23,109 - AgentForm -INFO - handle alert
+2019-11-08 14:51:23,995 - AgentForm -INFO - start for loop
+2019-11-08 14:51:25,075 - AgentForm -INFO - handle alert
+2019-11-08 14:51:26,210 - AgentForm -INFO - agent creation successful
+2019-11-08 14:51:26,211 - AgentForm -INFO - agent method is closed
+2019-11-08 14:51:26,254 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 14:51:26,283 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 14:51:28,794 - Sip_channel_configuration_Form -INFO - sip channel creation successful
+2019-11-08 14:51:28,794 - Sip_channel_configuration_Form -INFO - closed sip channel configuration
+2019-11-08 14:51:28,795 - Test_czentrix -INFO - close sip channel configuration test
+2019-11-08 14:51:28,819 - Test_czentrix -INFO - start list testcase
+2019-11-08 14:51:28,845 - ListsForm -INFO - start list method
+2019-11-08 14:51:30,879 - ListsForm -INFO - start loop
+2019-11-08 14:51:36,033 - ListsForm -INFO - list creation successful
+2019-11-08 14:51:36,034 - ListsForm -INFO - handle alert
+2019-11-08 14:51:37,205 - ListsForm -INFO - start loop
+2019-11-08 14:51:42,403 - ListsForm -INFO - list creation successful
+2019-11-08 14:51:42,404 - ListsForm -INFO - handle alert
+2019-11-08 14:51:43,528 - ListsForm -INFO - start loop
+2019-11-08 14:51:48,732 - ListsForm -INFO - list creation successful
+2019-11-08 14:51:48,733 - ListsForm -INFO - handle alert
+2019-11-08 14:51:49,952 - ListsForm -INFO - start loop
+2019-11-08 14:51:55,183 - ListsForm -INFO - list creation successful
+2019-11-08 14:51:55,184 - ListsForm -INFO - handle alert
+2019-11-08 14:51:56,793 - ListsForm -INFO - closed list method
+2019-11-08 14:51:56,861 - Test_czentrix -INFO - start uploadList test
+2019-11-08 14:52:00,170 - Test_czentrix -INFO - close uploadList test
+2019-11-08 14:52:00,202 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 14:52:03,973 - Test_czentrix -INFO - close apply configuration test
+2019-11-08 14:55:06,759 - Test_czentrix -INFO - start before testcase
+2019-11-08 14:55:13,142 - MethodClass -INFO - Firefox Opened
+2019-11-08 14:55:13,159 - MethodClass -INFO - window maximize
+2019-11-08 14:55:14,415 - MethodClass -INFO - call screen shot method
+2019-11-08 14:55:14,589 - MethodClass -INFO -  check url assertion
+2019-11-08 14:55:14,593 - MethodClass -INFO - fill user name
+2019-11-08 14:55:14,639 - MethodClass -INFO - fill password
+2019-11-08 14:55:14,812 - MethodClass -INFO - login success
+2019-11-08 14:55:14,812 - MethodClass -INFO - new session is start
+2019-11-08 14:55:16,405 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 14:55:16,405 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 14:55:16,518 - Test_czentrix -INFO - start license testcase
+2019-11-08 14:55:16,901 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 14:55:31,590 - Test_czentrix -INFO - close tdm  test
+2019-11-08 14:55:31,614 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 14:55:31,636 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 14:55:36,192 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 14:55:36,193 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 14:55:36,265 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 14:55:36,301 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 14:55:36,781 - SipChannelsForm -INFO - start loop
+2019-11-08 14:55:41,025 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:55:41,025 - SipChannelsForm -INFO - start loop
+2019-11-08 14:55:45,311 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:55:45,312 - SipChannelsForm -INFO - start loop
+2019-11-08 14:55:49,740 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:55:49,741 - SipChannelsForm -INFO - start loop
+2019-11-08 14:55:54,461 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 14:55:54,717 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-08 14:55:54,795 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 14:55:54,833 - CampaignForm -INFO - start campaign method
+2019-11-08 14:55:55,407 - CampaignForm -INFO - fill Campagn details
+2019-11-08 14:55:59,952 - CampaignForm -INFO - campaign creation successful
+2019-11-08 14:56:03,221 - CampaignForm -INFO - Disp creation successful
+2019-11-08 14:56:04,614 - CampaignForm -INFO - closed campaign method
+2019-11-08 14:56:04,644 - Test_czentrix -INFO - start agent testcase
+2019-11-08 14:56:04,665 - AgentForm -INFO - agent method is started
+2019-11-08 14:56:05,445 - AgentForm -INFO - start for loop
+2019-11-08 14:56:06,625 - AgentForm -INFO - handle alert
+2019-11-08 14:56:07,524 - AgentForm -INFO - start for loop
+2019-11-08 14:56:08,677 - AgentForm -INFO - handle alert
+2019-11-08 14:56:09,872 - AgentForm -INFO - start for loop
+2019-11-08 14:56:11,041 - AgentForm -INFO - handle alert
+2019-11-08 14:56:12,588 - AgentForm -INFO - start for loop
+2019-11-08 14:56:13,710 - AgentForm -INFO - handle alert
+2019-11-08 14:56:14,642 - AgentForm -INFO - start for loop
+2019-11-08 14:56:15,842 - AgentForm -INFO - handle alert
+2019-11-08 14:56:16,800 - AgentForm -INFO - start for loop
+2019-11-08 14:56:17,910 - AgentForm -INFO - handle alert
+2019-11-08 14:56:19,058 - AgentForm -INFO - agent creation successful
+2019-11-08 14:56:19,058 - AgentForm -INFO - agent method is closed
+2019-11-08 14:56:19,083 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 14:56:19,104 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 14:56:21,826 - Sip_channel_configuration_Form -INFO - sip channel creation successful
+2019-11-08 14:56:21,826 - Sip_channel_configuration_Form -INFO - closed sip channel configuration
+2019-11-08 14:56:21,827 - Test_czentrix -INFO - close sip channel configuration test
+2019-11-08 14:56:21,851 - Test_czentrix -INFO - start list testcase
+2019-11-08 14:56:21,872 - ListsForm -INFO - start list method
+2019-11-08 14:56:23,854 - ListsForm -INFO - start loop
+2019-11-08 14:56:29,121 - ListsForm -INFO - list creation successful
+2019-11-08 14:56:29,122 - ListsForm -INFO - handle alert
+2019-11-08 14:56:32,542 - ListsForm -INFO - start loop
+2019-11-08 14:56:37,856 - ListsForm -INFO - list creation successful
+2019-11-08 14:56:37,856 - ListsForm -INFO - handle alert
+2019-11-08 14:56:40,360 - ListsForm -INFO - start loop
+2019-11-08 14:56:45,667 - ListsForm -INFO - list creation successful
+2019-11-08 14:56:45,668 - ListsForm -INFO - handle alert
+2019-11-08 14:56:47,762 - ListsForm -INFO - start loop
+2019-11-08 14:56:53,236 - ListsForm -INFO - list creation successful
+2019-11-08 14:56:53,237 - ListsForm -INFO - handle alert
+2019-11-08 14:56:58,728 - ListsForm -INFO - closed list method
+2019-11-08 14:56:58,784 - Test_czentrix -INFO - start uploadList test
+2019-11-08 14:57:05,219 - Test_czentrix -INFO - close uploadList test
+2019-11-08 14:57:05,248 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 14:57:09,005 - Test_czentrix -INFO - close apply configuration test
+2019-11-08 15:02:31,132 - Test_czentrix -INFO - start before testcase
+2019-11-08 15:02:36,487 - MethodClass -INFO - Firefox Opened
+2019-11-08 15:02:36,539 - MethodClass -INFO - window maximize
+2019-11-08 15:02:38,073 - MethodClass -INFO - call screen shot method
+2019-11-08 15:02:38,259 - MethodClass -INFO -  check url assertion
+2019-11-08 15:28:32,153 - Test_czentrix -INFO - start before testcase
+2019-11-08 15:28:38,935 - MethodClass -INFO - Firefox Opened
+2019-11-08 15:28:38,950 - MethodClass -INFO - window maximize
+2019-11-08 15:28:40,467 - MethodClass -INFO - call screen shot method
+2019-11-08 15:28:40,636 - MethodClass -INFO -  check url assertion
+2019-11-08 15:30:29,337 - Test_czentrix -INFO - start before testcase
+2019-11-08 15:30:35,518 - MethodClass -INFO - Firefox Opened
+2019-11-08 15:30:35,529 - MethodClass -INFO - window maximize
+2019-11-08 15:30:36,929 - MethodClass -INFO - call screen shot method
+2019-11-08 15:30:37,061 - MethodClass -INFO -  check url assertion
+2019-11-08 15:31:38,964 - Test_czentrix -INFO - start before testcase
+2019-11-08 15:31:45,630 - MethodClass -INFO - Firefox Opened
+2019-11-08 15:31:45,643 - MethodClass -INFO - window maximize
+2019-11-08 15:31:47,245 - MethodClass -INFO - call screen shot method
+2019-11-08 15:31:47,380 - MethodClass -INFO -  check url assertion
+2019-11-08 15:31:47,385 - MethodClass -INFO - fill user name
+2019-11-08 15:31:47,443 - MethodClass -INFO - fill password
+2019-11-08 15:31:47,615 - MethodClass -INFO - login success
+2019-11-08 15:31:47,616 - MethodClass -INFO - new session is start
+2019-11-08 15:31:49,618 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 15:31:49,619 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 15:31:49,665 - Test_czentrix -INFO - start license testcase
+2019-11-08 15:31:50,185 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 15:32:05,112 - Test_czentrix -INFO - close tdm  test
+2019-11-08 15:32:05,153 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 15:32:05,180 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 15:32:09,337 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 15:32:09,337 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 15:32:09,362 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 15:32:09,391 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 15:32:09,864 - SipChannelsForm -INFO - start loop
+2019-11-08 15:32:13,735 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:32:13,736 - SipChannelsForm -INFO - start loop
+2019-11-08 15:32:17,664 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:32:17,665 - SipChannelsForm -INFO - start loop
+2019-11-08 15:32:21,545 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:32:21,545 - SipChannelsForm -INFO - start loop
+2019-11-08 15:32:25,445 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:32:25,916 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-08 15:32:25,967 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 15:32:25,996 - CampaignForm -INFO - start campaign method
+2019-11-08 15:32:26,683 - CampaignForm -INFO - fill Campagn details
+2019-11-08 15:32:30,928 - CampaignForm -INFO - campaign creation successful
+2019-11-08 15:32:33,519 - CampaignForm -INFO - Disp creation successful
+2019-11-08 15:32:35,028 - CampaignForm -INFO - closed campaign method
+2019-11-08 15:32:35,077 - Test_czentrix -INFO - start agent testcase
+2019-11-08 15:32:35,103 - AgentForm -INFO - agent method is started
+2019-11-08 15:32:36,022 - AgentForm -INFO - start for loop
+2019-11-08 15:32:37,006 - AgentForm -INFO - handle alert
+2019-11-08 15:32:37,966 - AgentForm -INFO - start for loop
+2019-11-08 15:32:38,998 - AgentForm -INFO - handle alert
+2019-11-08 15:32:39,986 - AgentForm -INFO - start for loop
+2019-11-08 15:32:41,016 - AgentForm -INFO - handle alert
+2019-11-08 15:32:42,030 - AgentForm -INFO - start for loop
+2019-11-08 15:32:43,099 - AgentForm -INFO - handle alert
+2019-11-08 15:32:44,088 - AgentForm -INFO - start for loop
+2019-11-08 15:32:45,111 - AgentForm -INFO - handle alert
+2019-11-08 15:32:46,064 - AgentForm -INFO - start for loop
+2019-11-08 15:32:47,080 - AgentForm -INFO - handle alert
+2019-11-08 15:32:48,431 - AgentForm -INFO - agent creation successful
+2019-11-08 15:32:48,432 - AgentForm -INFO - agent method is closed
+2019-11-08 15:32:48,455 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 15:32:48,474 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 15:32:51,222 - Sip_channel_configuration_Form -INFO - sip channel creation successful
+2019-11-08 15:32:51,223 - Sip_channel_configuration_Form -INFO - closed sip channel configuration
+2019-11-08 15:32:51,223 - Test_czentrix -INFO - close sip channel configuration test
+2019-11-08 15:32:51,258 - Test_czentrix -INFO - start list testcase
+2019-11-08 15:32:51,295 - ListsForm -INFO - start list method
+2019-11-08 15:32:53,389 - ListsForm -INFO - start loop
+2019-11-08 15:32:58,601 - ListsForm -INFO - list creation successful
+2019-11-08 15:32:58,601 - ListsForm -INFO - handle alert
+2019-11-08 15:32:59,812 - ListsForm -INFO - start loop
+2019-11-08 15:33:04,961 - ListsForm -INFO - list creation successful
+2019-11-08 15:33:04,962 - ListsForm -INFO - handle alert
+2019-11-08 15:33:06,100 - ListsForm -INFO - start loop
+2019-11-08 15:33:11,294 - ListsForm -INFO - list creation successful
+2019-11-08 15:33:11,295 - ListsForm -INFO - handle alert
+2019-11-08 15:33:12,493 - ListsForm -INFO - start loop
+2019-11-08 15:33:17,678 - ListsForm -INFO - list creation successful
+2019-11-08 15:33:17,679 - ListsForm -INFO - handle alert
+2019-11-08 15:33:19,171 - ListsForm -INFO - closed list method
+2019-11-08 15:33:19,194 - Test_czentrix -INFO - start uploadList test
+2019-11-08 15:33:22,682 - Test_czentrix -INFO - close uploadList test
+2019-11-08 15:33:22,726 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 15:33:26,634 - Test_czentrix -INFO - close apply configuration test
+2019-11-08 15:42:42,851 - Test_czentrix -INFO - start before testcase
+2019-11-08 15:42:49,552 - MethodClass -INFO - Firefox Opened
+2019-11-08 15:42:49,564 - MethodClass -INFO - window maximize
+2019-11-08 15:42:51,072 - MethodClass -INFO - call screen shot method
+2019-11-08 15:42:51,256 - MethodClass -INFO -  check url assertion
+2019-11-08 15:42:51,261 - MethodClass -INFO - fill user name
+2019-11-08 15:42:51,321 - MethodClass -INFO - fill password
+2019-11-08 15:42:51,502 - MethodClass -INFO - login success
+2019-11-08 15:42:51,503 - MethodClass -INFO - new session is start
+2019-11-08 15:42:51,529 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 15:42:51,606 - Test_czentrix -INFO - start license testcase
+2019-11-08 15:42:51,671 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 15:42:51,722 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 15:42:51,755 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 15:42:51,821 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 15:42:51,850 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 15:42:51,907 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 15:42:51,930 - CampaignForm -INFO - start campaign method
+2019-11-08 15:42:51,968 - Test_czentrix -INFO - start agent testcase
+2019-11-08 15:42:51,990 - AgentForm -INFO - agent method is started
+2019-11-08 15:42:52,029 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 15:42:52,049 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 15:42:52,087 - Test_czentrix -INFO - start list testcase
+2019-11-08 15:42:52,111 - ListsForm -INFO - start list method
+2019-11-08 15:42:52,142 - Test_czentrix -INFO - start uploadList test
+2019-11-08 15:42:52,176 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 15:43:53,888 - Test_czentrix -INFO - start before testcase
+2019-11-08 15:43:59,894 - MethodClass -INFO - Firefox Opened
+2019-11-08 15:43:59,906 - MethodClass -INFO - window maximize
+2019-11-08 15:44:01,392 - MethodClass -INFO - call screen shot method
+2019-11-08 15:44:01,525 - MethodClass -INFO -  check url assertion
+2019-11-08 15:44:01,534 - MethodClass -INFO - fill user name
+2019-11-08 15:44:01,597 - MethodClass -INFO - fill password
+2019-11-08 15:44:01,795 - MethodClass -INFO - login success
+2019-11-08 15:44:01,796 - MethodClass -INFO - new session is start
+2019-11-08 15:44:03,272 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 15:44:03,273 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 15:44:03,317 - Test_czentrix -INFO - start license testcase
+2019-11-08 15:44:03,819 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 15:44:18,782 - Test_czentrix -INFO - close tdm  test
+2019-11-08 15:44:18,819 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 15:44:18,848 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 15:44:22,907 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 15:44:22,907 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 15:44:22,937 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 15:44:22,967 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 15:44:23,401 - SipChannelsForm -INFO - start loop
+2019-11-08 15:44:27,603 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:44:27,603 - SipChannelsForm -INFO - start loop
+2019-11-08 15:44:31,513 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:44:31,514 - SipChannelsForm -INFO - start loop
+2019-11-08 15:44:35,433 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:44:35,434 - SipChannelsForm -INFO - start loop
+2019-11-08 15:44:39,346 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:44:40,262 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-08 15:44:40,309 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 15:44:40,332 - CampaignForm -INFO - start campaign method
+2019-11-08 15:44:41,065 - CampaignForm -INFO - fill Campagn details
+2019-11-08 15:44:45,240 - CampaignForm -INFO - campaign creation successful
+2019-11-08 15:44:47,883 - CampaignForm -INFO - Disp creation successful
+2019-11-08 15:44:49,436 - CampaignForm -INFO - closed campaign method
+2019-11-08 15:44:49,478 - Test_czentrix -INFO - start agent testcase
+2019-11-08 15:44:49,506 - AgentForm -INFO - agent method is started
+2019-11-08 15:44:50,474 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 15:44:50,495 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 15:44:52,276 - Test_czentrix -INFO - start list testcase
+2019-11-08 15:44:52,298 - ListsForm -INFO - start list method
+2019-11-08 15:44:54,282 - ListsForm -INFO - start loop
+2019-11-08 15:44:59,382 - ListsForm -INFO - list creation successful
+2019-11-08 15:44:59,382 - ListsForm -INFO - handle alert
+2019-11-08 15:45:00,404 - ListsForm -INFO - start loop
+2019-11-08 15:45:05,490 - ListsForm -INFO - list creation successful
+2019-11-08 15:45:05,490 - ListsForm -INFO - handle alert
+2019-11-08 15:45:06,533 - ListsForm -INFO - start loop
+2019-11-08 15:45:11,630 - ListsForm -INFO - list creation successful
+2019-11-08 15:45:11,630 - ListsForm -INFO - handle alert
+2019-11-08 15:45:12,670 - ListsForm -INFO - start loop
+2019-11-08 15:45:17,822 - ListsForm -INFO - list creation successful
+2019-11-08 15:45:17,823 - ListsForm -INFO - handle alert
+2019-11-08 15:45:19,132 - ListsForm -INFO - closed list method
+2019-11-08 15:45:19,156 - Test_czentrix -INFO - start uploadList test
+2019-11-08 15:45:22,469 - Test_czentrix -INFO - close uploadList test
+2019-11-08 15:45:22,506 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 15:45:26,196 - Test_czentrix -INFO - close apply configuration test
+2019-11-08 15:52:46,362 - Test_czentrix -INFO - start before testcase
+2019-11-08 15:52:52,476 - MethodClass -INFO - Firefox Opened
+2019-11-08 15:52:52,520 - MethodClass -INFO - window maximize
+2019-11-08 15:52:54,045 - MethodClass -INFO - call screen shot method
+2019-11-08 15:52:54,204 - MethodClass -INFO -  check url assertion
+2019-11-08 15:52:54,210 - MethodClass -INFO - fill user name
+2019-11-08 15:52:54,276 - MethodClass -INFO - fill password
+2019-11-08 15:52:54,461 - MethodClass -INFO - login success
+2019-11-08 15:52:54,461 - MethodClass -INFO - new session is start
+2019-11-08 15:52:55,890 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 15:52:55,891 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 15:52:55,937 - Test_czentrix -INFO - start license testcase
+2019-11-08 15:52:56,406 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 15:53:11,071 - Test_czentrix -INFO - close tdm  test
+2019-11-08 15:53:11,127 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 15:53:11,156 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 15:53:15,361 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 15:53:15,362 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 15:53:15,394 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 15:53:15,424 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 15:53:15,880 - SipChannelsForm -INFO - start loop
+2019-11-08 15:53:19,777 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:53:19,777 - SipChannelsForm -INFO - start loop
+2019-11-08 15:53:23,750 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:53:23,750 - SipChannelsForm -INFO - start loop
+2019-11-08 15:53:27,595 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:53:27,595 - SipChannelsForm -INFO - start loop
+2019-11-08 15:53:31,493 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 15:53:31,640 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-08 15:53:31,729 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 15:53:31,757 - CampaignForm -INFO - start campaign method
+2019-11-08 15:53:32,386 - CampaignForm -INFO - fill Campagn details
+2019-11-08 15:53:36,609 - CampaignForm -INFO - campaign creation successful
+2019-11-08 15:53:38,897 - CampaignForm -INFO - Disp creation successful
+2019-11-08 15:53:40,307 - CampaignForm -INFO - closed campaign method
+2019-11-08 15:53:40,356 - Test_czentrix -INFO - start agent testcase
+2019-11-08 15:53:40,383 - AgentForm -INFO - agent method is started
+2019-11-08 15:53:41,422 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 15:53:41,430 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 15:53:43,309 - Test_czentrix -INFO - start list testcase
+2019-11-08 15:53:43,332 - ListsForm -INFO - start list method
+2019-11-08 15:53:45,187 - ListsForm -INFO - start loop
+2019-11-08 15:53:50,540 - ListsForm -INFO - list creation successful
+2019-11-08 15:53:50,541 - ListsForm -INFO - handle alert
+2019-11-08 15:53:50,777 - ListsForm -INFO - start loop
+2019-11-08 15:53:55,938 - ListsForm -INFO - list creation successful
+2019-11-08 15:53:55,938 - ListsForm -INFO - handle alert
+2019-11-08 15:53:56,159 - ListsForm -INFO - start loop
+2019-11-08 15:54:01,330 - ListsForm -INFO - list creation successful
+2019-11-08 15:54:01,330 - ListsForm -INFO - handle alert
+2019-11-08 15:54:01,562 - ListsForm -INFO - start loop
+2019-11-08 15:54:06,797 - ListsForm -INFO - list creation successful
+2019-11-08 15:54:06,798 - ListsForm -INFO - handle alert
+2019-11-08 15:54:07,240 - ListsForm -INFO - closed list method
+2019-11-08 15:54:07,266 - Test_czentrix -INFO - start uploadList test
+2019-11-08 15:54:10,471 - Test_czentrix -INFO - close uploadList test
+2019-11-08 15:54:10,517 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 15:54:14,246 - Test_czentrix -INFO - close apply configuration test
+2019-11-08 16:06:46,122 - Test_czentrix -INFO - start before testcase
+2019-11-08 16:06:52,566 - MethodClass -INFO - Firefox Opened
+2019-11-08 16:06:52,573 - MethodClass -INFO - window maximize
+2019-11-08 16:06:54,349 - MethodClass -INFO - call screen shot method
+2019-11-08 16:06:54,627 - MethodClass -INFO -  check url assertion
+2019-11-08 16:06:54,632 - MethodClass -INFO - fill user name
+2019-11-08 16:06:54,687 - MethodClass -INFO - fill password
+2019-11-08 16:06:57,850 - MethodClass -INFO - login success
+2019-11-08 16:06:57,850 - MethodClass -INFO - new session is start
+2019-11-08 16:06:57,874 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 16:06:57,921 - Test_czentrix -INFO - start license testcase
+2019-11-08 16:06:57,968 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 16:06:58,000 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 16:06:58,015 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 16:06:58,040 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 16:06:58,046 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 16:06:58,076 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 16:06:58,094 - CampaignForm -INFO - start campaign method
+2019-11-08 16:06:58,127 - Test_czentrix -INFO - start agent testcase
+2019-11-08 16:06:58,150 - AgentForm -INFO - agent method is started
+2019-11-08 16:06:58,176 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 16:06:58,192 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 16:06:58,216 - Test_czentrix -INFO - start list testcase
+2019-11-08 16:06:58,223 - ListsForm -INFO - start list method
+2019-11-08 16:06:58,250 - Test_czentrix -INFO - start uploadList test
+2019-11-08 16:06:58,273 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 16:07:14,177 - Test_czentrix -INFO - start before testcase
+2019-11-08 16:07:19,908 - MethodClass -INFO - Firefox Opened
+2019-11-08 16:07:19,917 - MethodClass -INFO - window maximize
+2019-11-08 16:07:21,352 - MethodClass -INFO - call screen shot method
+2019-11-08 16:07:21,698 - MethodClass -INFO -  check url assertion
+2019-11-08 16:07:21,705 - MethodClass -INFO - fill user name
+2019-11-08 16:07:21,797 - MethodClass -INFO - fill password
+2019-11-08 16:07:21,972 - MethodClass -INFO - login success
+2019-11-08 16:07:21,972 - MethodClass -INFO - new session is start
+2019-11-08 16:07:25,338 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 16:07:25,339 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 16:07:25,383 - Test_czentrix -INFO - start license testcase
+2019-11-08 16:07:25,776 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 16:07:27,196 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 16:07:27,242 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 16:07:28,476 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 16:07:28,498 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 16:07:28,540 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 16:07:28,556 - CampaignForm -INFO - start campaign method
+2019-11-08 16:07:28,602 - Test_czentrix -INFO - start agent testcase
+2019-11-08 16:07:28,622 - AgentForm -INFO - agent method is started
+2019-11-08 16:07:28,663 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 16:07:28,681 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 16:07:28,718 - Test_czentrix -INFO - start list testcase
+2019-11-08 16:07:28,736 - ListsForm -INFO - start list method
+2019-11-08 16:07:28,767 - Test_czentrix -INFO - start uploadList test
+2019-11-08 16:07:28,798 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 16:18:06,365 - Test_czentrix -INFO - start before testcase
+2019-11-08 16:18:11,585 - MethodClass -INFO - Firefox Opened
+2019-11-08 16:18:11,600 - MethodClass -INFO - window maximize
+2019-11-08 16:18:13,287 - MethodClass -INFO - call screen shot method
+2019-11-08 16:18:13,593 - MethodClass -INFO -  check url assertion
+2019-11-08 16:18:13,599 - MethodClass -INFO - fill user name
+2019-11-08 16:18:13,668 - MethodClass -INFO - fill password
+2019-11-08 16:18:13,839 - MethodClass -INFO - login success
+2019-11-08 16:18:13,839 - MethodClass -INFO - new session is start
+2019-11-08 16:18:18,610 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 16:18:18,611 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 16:18:18,644 - Test_czentrix -INFO - start license testcase
+2019-11-08 16:18:19,051 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 16:18:20,443 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 16:18:20,484 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 16:18:21,577 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 16:18:21,599 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 16:18:21,652 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 16:18:21,670 - CampaignForm -INFO - start campaign method
+2019-11-08 16:18:21,707 - Test_czentrix -INFO - start agent testcase
+2019-11-08 16:18:21,726 - AgentForm -INFO - agent method is started
+2019-11-08 16:18:21,758 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 16:18:21,776 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 16:18:21,808 - Test_czentrix -INFO - start list testcase
+2019-11-08 16:18:21,824 - ListsForm -INFO - start list method
+2019-11-08 16:18:21,853 - Test_czentrix -INFO - start uploadList test
+2019-11-08 16:18:21,889 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 16:19:59,119 - Test_czentrix -INFO - start before testcase
+2019-11-08 16:20:04,775 - MethodClass -INFO - Firefox Opened
+2019-11-08 16:20:04,785 - MethodClass -INFO - window maximize
+2019-11-08 16:20:06,316 - MethodClass -INFO - call screen shot method
+2019-11-08 16:20:06,489 - MethodClass -INFO -  check url assertion
+2019-11-08 16:20:06,493 - MethodClass -INFO - fill user name
+2019-11-08 16:20:06,540 - MethodClass -INFO - fill password
+2019-11-08 16:20:06,687 - MethodClass -INFO - login success
+2019-11-08 16:20:06,687 - MethodClass -INFO - new session is start
+2019-11-08 16:20:08,328 - Test_czentrix -INFO - close browser test case in try block
+2019-11-08 16:20:08,329 - Test_czentrix -INFO - close Browser testcase
+2019-11-08 16:20:08,421 - Test_czentrix -INFO - start license testcase
+2019-11-08 16:20:08,814 - Test_czentrix -INFO - Start tdm test case 
+2019-11-08 16:20:23,991 - Test_czentrix -INFO - close tdm  test
+2019-11-08 16:20:24,021 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-08 16:20:24,042 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-08 16:20:28,859 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-08 16:20:28,860 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-08 16:20:28,905 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-08 16:20:28,930 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-08 16:20:30,043 - SipChannelsForm -INFO - start loop
+2019-11-08 16:20:35,838 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 16:20:35,839 - SipChannelsForm -INFO - start loop
+2019-11-08 16:20:40,017 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 16:20:40,018 - SipChannelsForm -INFO - start loop
+2019-11-08 16:20:44,162 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 16:20:44,162 - SipChannelsForm -INFO - start loop
+2019-11-08 16:20:49,033 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-08 16:20:49,505 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-08 16:20:49,548 - Test_czentrix -INFO - start campaign testcase
+2019-11-08 16:20:49,579 - CampaignForm -INFO - start campaign method
+2019-11-08 16:20:50,370 - CampaignForm -INFO - fill Campagn details
+2019-11-08 16:20:57,973 - CampaignForm -INFO - campaign creation successful
+2019-11-08 16:21:00,753 - CampaignForm -INFO - Disp creation successful
+2019-11-08 16:21:03,466 - CampaignForm -INFO - closed campaign method
+2019-11-08 16:21:03,494 - Test_czentrix -INFO - start agent testcase
+2019-11-08 16:21:03,517 - AgentForm -INFO - agent method is started
+2019-11-08 16:21:04,276 - AgentForm -INFO - start for loop
+2019-11-08 16:21:05,423 - AgentForm -INFO - handle alert
+2019-11-08 16:21:06,345 - AgentForm -INFO - start for loop
+2019-11-08 16:21:07,515 - AgentForm -INFO - handle alert
+2019-11-08 16:21:08,443 - AgentForm -INFO - start for loop
+2019-11-08 16:21:09,597 - AgentForm -INFO - handle alert
+2019-11-08 16:21:10,695 - AgentForm -INFO - start for loop
+2019-11-08 16:21:11,892 - AgentForm -INFO - handle alert
+2019-11-08 16:21:12,855 - AgentForm -INFO - start for loop
+2019-11-08 16:21:14,038 - AgentForm -INFO - handle alert
+2019-11-08 16:21:14,962 - AgentForm -INFO - start for loop
+2019-11-08 16:21:16,078 - AgentForm -INFO - handle alert
+2019-11-08 16:21:17,238 - AgentForm -INFO - agent creation successful
+2019-11-08 16:21:17,239 - AgentForm -INFO - agent method is closed
+2019-11-08 16:21:17,278 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-08 16:21:17,313 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-08 16:21:20,444 - Sip_channel_configuration_Form -INFO - sip channel creation successful
+2019-11-08 16:21:20,445 - Sip_channel_configuration_Form -INFO - closed sip channel configuration
+2019-11-08 16:21:20,445 - Test_czentrix -INFO - close sip channel configuration test
+2019-11-08 16:21:20,475 - Test_czentrix -INFO - start list testcase
+2019-11-08 16:21:20,497 - ListsForm -INFO - start list method
+2019-11-08 16:21:22,451 - ListsForm -INFO - start loop
+2019-11-08 16:21:27,682 - ListsForm -INFO - list creation successful
+2019-11-08 16:21:27,683 - ListsForm -INFO - handle alert
+2019-11-08 16:21:28,987 - ListsForm -INFO - start loop
+2019-11-08 16:21:34,138 - ListsForm -INFO - list creation successful
+2019-11-08 16:21:34,139 - ListsForm -INFO - handle alert
+2019-11-08 16:21:35,416 - ListsForm -INFO - start loop
+2019-11-08 16:21:40,699 - ListsForm -INFO - list creation successful
+2019-11-08 16:21:40,700 - ListsForm -INFO - handle alert
+2019-11-08 16:21:41,829 - ListsForm -INFO - start loop
+2019-11-08 16:21:47,035 - ListsForm -INFO - list creation successful
+2019-11-08 16:21:47,036 - ListsForm -INFO - handle alert
+2019-11-08 16:21:48,673 - ListsForm -INFO - closed list method
+2019-11-08 16:21:48,740 - Test_czentrix -INFO - start uploadList test
+2019-11-08 16:21:52,068 - Test_czentrix -INFO - close uploadList test
+2019-11-08 16:21:52,094 - Test_czentrix -INFO - start apply configuration test
+2019-11-08 16:21:55,940 - Test_czentrix -INFO - close apply configuration test
+2019-11-15 12:35:22,676 - Test_czentrix -INFO - start before testcase
+2019-11-15 12:35:30,722 - MethodClass -INFO - Firefox Opened
+2019-11-15 12:35:30,733 - MethodClass -INFO - window maximize
+2019-11-15 12:35:52,572 - MethodClass -INFO - call screen shot method
+2019-11-15 12:35:53,046 - MethodClass -INFO -  check url assertion
+2019-11-15 12:35:53,057 - MethodClass -INFO - fill user name
+2019-11-15 12:35:53,187 - MethodClass -INFO - fill password
+2019-11-15 12:35:54,130 - MethodClass -INFO - login success
+2019-11-15 12:35:54,130 - MethodClass -INFO - new session is start
+2019-11-15 12:35:54,236 - Test_czentrix -INFO - close Browser testcase
+2019-11-15 12:35:54,337 - Test_czentrix -INFO - start license testcase
+2019-11-15 12:35:54,425 - Test_czentrix -INFO - Start tdm test case 
+2019-11-15 12:35:54,516 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-15 12:35:54,558 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-15 12:35:54,602 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-15 12:35:54,658 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-15 12:35:54,711 - Test_czentrix -INFO - start campaign testcase
+2019-11-15 12:35:54,774 - CampaignForm -INFO - start campaign method
+2019-11-15 12:35:54,827 - Test_czentrix -INFO - start agent testcase
+2019-11-15 12:35:54,887 - AgentForm -INFO - agent method is started
+2019-11-15 12:35:54,939 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-15 12:35:54,984 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-15 12:35:55,027 - Test_czentrix -INFO - start list testcase
+2019-11-15 12:35:55,081 - ListsForm -INFO - start list method
+2019-11-15 12:35:55,132 - Test_czentrix -INFO - start uploadList test
+2019-11-15 12:35:55,192 - Test_czentrix -INFO - start apply configuration test
+2019-11-18 15:51:25,319 - Test_czentrix -INFO - start before testcase
+2019-11-18 15:51:29,963 - MethodClass -INFO - Firefox Opened
+2019-11-18 15:51:29,986 - MethodClass -INFO - window maximize
+2019-11-18 15:51:51,537 - MethodClass -INFO - call screen shot method
+2019-11-18 15:51:51,725 - MethodClass -INFO -  check url assertion
+2019-11-18 15:51:51,733 - MethodClass -INFO - fill user name
+2019-11-18 15:51:51,899 - MethodClass -INFO - fill password
+2019-11-18 15:51:52,364 - MethodClass -INFO - login success
+2019-11-18 15:51:52,364 - MethodClass -INFO - new session is start
+2019-11-18 15:51:52,394 - Test_czentrix -INFO - close Browser testcase
+2019-11-18 15:51:52,442 - Test_czentrix -INFO - start license testcase
+2019-11-18 15:51:52,543 - Test_czentrix -INFO - Start tdm test case 
+2019-11-18 15:51:52,646 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-18 15:51:52,695 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-18 15:51:52,743 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-18 15:51:52,847 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-18 15:51:52,917 - Test_czentrix -INFO - start campaign testcase
+2019-11-18 15:51:53,008 - CampaignForm -INFO - start campaign method
+2019-11-18 15:51:53,075 - Test_czentrix -INFO - start agent testcase
+2019-11-18 15:51:53,176 - AgentForm -INFO - agent method is started
+2019-11-18 15:51:53,226 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-18 15:51:53,276 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-18 15:51:53,344 - Test_czentrix -INFO - start list testcase
+2019-11-18 15:51:53,389 - ListsForm -INFO - start list method
+2019-11-18 15:51:53,459 - Test_czentrix -INFO - start uploadList test
+2019-11-18 15:51:53,542 - Test_czentrix -INFO - start apply configuration test
+2019-11-18 15:52:27,051 - Test_czentrix -INFO - start before testcase
+2019-11-18 15:52:32,703 - MethodClass -INFO - Firefox Opened
+2019-11-18 15:52:32,722 - MethodClass -INFO - window maximize
+2019-11-18 15:52:54,125 - MethodClass -INFO - call screen shot method
+2019-11-18 15:52:54,301 - MethodClass -INFO -  check url assertion
+2019-11-18 15:52:54,305 - MethodClass -INFO - fill user name
+2019-11-18 15:52:54,420 - MethodClass -INFO - fill password
+2019-11-18 15:52:54,947 - MethodClass -INFO - login success
+2019-11-18 15:52:54,950 - MethodClass -INFO - new session is start
+2019-11-18 15:52:59,279 - Test_czentrix -INFO - close browser test case in try block
+2019-11-18 15:52:59,279 - Test_czentrix -INFO - close Browser testcase
+2019-11-18 15:52:59,367 - Test_czentrix -INFO - start license testcase
+2019-11-18 15:53:00,138 - Test_czentrix -INFO - Start tdm test case 
+2019-11-18 15:53:03,831 - Test_czentrix -INFO - start gateway configuration test case
+2019-11-18 15:53:03,841 - Gateway_ConfigurationForm -INFO - start gatWay method
+2019-11-18 15:53:09,218 - Gateway_ConfigurationForm -INFO - Gateway creation  successful
+2019-11-18 15:53:09,219 - Gateway_ConfigurationForm -INFO - closed gateway method
+2019-11-18 15:53:09,277 - Test_czentrix -INFO - start sip configuration testcase
+2019-11-18 15:53:09,307 - SipChannelsForm -INFO -  start sipChannels method 
+2019-11-18 15:53:10,043 - SipChannelsForm -INFO - start loop
+2019-11-18 15:53:15,314 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-18 15:53:15,314 - SipChannelsForm -INFO - start loop
+2019-11-18 15:53:20,327 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-18 15:53:20,327 - SipChannelsForm -INFO - start loop
+2019-11-18 15:53:25,322 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-18 15:53:25,322 - SipChannelsForm -INFO - start loop
+2019-11-18 15:53:30,468 - SipChannelsForm -INFO - SipChannels creation successful
+2019-11-18 15:53:30,714 - SipChannelsForm -INFO - closed sipChannels method
+2019-11-18 15:53:30,783 - Test_czentrix -INFO - start campaign testcase
+2019-11-18 15:53:30,816 - CampaignForm -INFO - start campaign method
+2019-11-18 15:53:31,455 - CampaignForm -INFO - fill Campagn details
+2019-11-18 15:53:37,808 - CampaignForm -INFO - campaign creation successful
+2019-11-18 15:53:40,576 - CampaignForm -INFO - Disp creation successful
+2019-11-18 15:53:41,997 - CampaignForm -INFO - closed campaign method
+2019-11-18 15:53:42,030 - Test_czentrix -INFO - start agent testcase
+2019-11-18 15:53:42,052 - AgentForm -INFO - agent method is started
+2019-11-18 15:53:43,163 - AgentForm -INFO - start for loop
+2019-11-18 15:53:44,743 - AgentForm -INFO - handle alert
+2019-11-18 15:53:45,745 - AgentForm -INFO - start for loop
+2019-11-18 15:53:47,313 - AgentForm -INFO - handle alert
+2019-11-18 15:53:48,269 - AgentForm -INFO - start for loop
+2019-11-18 15:53:50,081 - AgentForm -INFO - handle alert
+2019-11-18 15:53:51,118 - AgentForm -INFO - start for loop
+2019-11-18 15:53:52,782 - AgentForm -INFO - handle alert
+2019-11-18 15:53:54,767 - AgentForm -INFO - start for loop
+2019-11-18 15:53:56,293 - AgentForm -INFO - handle alert
+2019-11-18 15:54:01,124 - AgentForm -INFO - start for loop
+2019-11-18 15:54:02,919 - AgentForm -INFO - handle alert
+2019-11-18 15:54:04,300 - AgentForm -INFO - agent creation successful
+2019-11-18 15:54:04,300 - AgentForm -INFO - agent method is closed
+2019-11-18 15:54:04,369 - Test_czentrix -INFO - Start sip channel configuration test case
+2019-11-18 15:54:04,399 - Sip_channel_configuration_Form -INFO -  start sip_channel configuration method 
+2019-11-18 15:54:08,136 - Sip_channel_configuration_Form -INFO - sip channel creation successful
+2019-11-18 15:54:08,136 - Sip_channel_configuration_Form -INFO - closed sip channel configuration
+2019-11-18 15:54:08,137 - Test_czentrix -INFO - close sip channel configuration test
+2019-11-18 15:54:08,165 - Test_czentrix -INFO - start list testcase
+2019-11-18 15:54:08,186 - ListsForm -INFO - start list method
+2019-11-18 15:54:10,285 - ListsForm -INFO - start loop
+2019-11-18 15:54:16,151 - ListsForm -INFO - list creation successful
+2019-11-18 15:54:16,151 - ListsForm -INFO - handle alert
+2019-11-18 15:54:17,340 - ListsForm -INFO - start loop
+2019-11-18 15:54:23,135 - ListsForm -INFO - list creation successful
+2019-11-18 15:54:23,137 - ListsForm -INFO - handle alert
+2019-11-18 15:54:24,279 - ListsForm -INFO - start loop
+2019-11-18 15:54:30,192 - ListsForm -INFO - list creation successful
+2019-11-18 15:54:30,193 - ListsForm -INFO - handle alert
+2019-11-18 15:54:31,435 - ListsForm -INFO - start loop
+2019-11-18 15:54:37,243 - ListsForm -INFO - list creation successful
+2019-11-18 15:54:37,245 - ListsForm -INFO - handle alert
+2019-11-18 15:54:38,683 - ListsForm -INFO - closed list method
+2019-11-18 15:54:38,759 - Test_czentrix -INFO - start uploadList test
+2019-11-18 15:54:42,482 - Test_czentrix -INFO - close uploadList test
+2019-11-18 15:54:42,508 - Test_czentrix -INFO - start apply configuration test
+2019-11-18 15:54:46,307 - Test_czentrix -INFO - close apply configuration test
+2019-11-26 12:18:11,542 - Test_czentrix -INFO - start before testcase
+2019-11-26 12:18:18,488 - MethodClass -INFO - Firefox Opened
+2019-11-26 12:18:18,507 - MethodClass -INFO - window maximize
+2019-11-26 12:18:40,075 - MethodClass -INFO - call screen shot method
+2019-11-26 12:18:40,359 - MethodClass -INFO -  check url assertion
+2019-11-26 12:18:40,368 - MethodClass -INFO - fill user name
+2019-11-26 12:18:40,460 - MethodClass -INFO - fill password
+2019-11-26 12:18:41,345 - MethodClass -INFO - login success
+2019-11-26 12:18:41,345 - MethodClass -INFO - new session is start
+2019-11-26 12:18:41,378 - Test_czentrix -INFO - close Browser testcase
+2019-11-26 12:18:56,948 - Test_czentrix -INFO - start before testcase
+2019-11-26 12:19:03,358 - MethodClass -INFO - Firefox Opened
+2019-11-26 12:19:03,367 - MethodClass -INFO - window maximize
+2019-11-26 12:19:24,808 - MethodClass -INFO - call screen shot method
+2019-11-26 12:19:25,027 - MethodClass -INFO -  check url assertion
+2019-11-26 12:19:25,035 - MethodClass -INFO - fill user name
+2019-11-26 12:19:25,145 - MethodClass -INFO - fill password
+2019-11-26 12:19:25,397 - MethodClass -INFO - login success
+2019-11-26 12:19:25,398 - MethodClass -INFO - new session is start
+2019-11-26 12:19:27,062 - Test_czentrix -INFO - close browser test case in try block
+2019-11-26 12:19:27,062 - Test_czentrix -INFO - close Browser testcase
+2019-11-26 12:21:48,806 - Test_czentrix -INFO - start before testcase
+2019-11-26 12:21:55,191 - MethodClass -INFO - Firefox Opened
+2019-11-26 12:21:55,203 - MethodClass -INFO - window maximize
+2019-11-26 12:22:17,163 - MethodClass -INFO - call screen shot method
+2019-11-26 12:22:17,397 - MethodClass -INFO -  check url assertion
+2019-11-26 12:22:17,407 - MethodClass -INFO - fill user name
+2019-11-26 12:22:17,512 - MethodClass -INFO - fill password
+2019-11-26 12:22:17,731 - MethodClass -INFO - login success
+2019-11-26 12:22:17,731 - MethodClass -INFO - new session is start
+2019-11-26 12:22:19,425 - Test_czentrix -INFO - close browser test case in try block
+2019-11-26 12:22:19,425 - Test_czentrix -INFO - close Browser testcase

@@ -1,0 +1,1238 @@
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - agent creation successful
+[main] INFO AgentForm - agent method is closed
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Sip_channel_configuration_Form - sip channel creation successful
+[main] INFO Sip_channel_configuration_Form - closed sip channel configuration
+[main] INFO Test_czentrix - close sip channel configuration test
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - close tdm  test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - close tdm  test
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - agent creation successful
+[main] INFO AgentForm - agent method is closed
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Sip_channel_configuration_Form - sip channel creation successful
+[main] INFO Sip_channel_configuration_Form - closed sip channel configuration
+[main] INFO Test_czentrix - close sip channel configuration test
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - agent creation successful
+[main] INFO AgentForm - agent method is closed
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Sip_channel_configuration_Form - sip channel creation successful
+[main] INFO Sip_channel_configuration_Form - closed sip channel configuration
+[main] INFO Test_czentrix - close sip channel configuration test
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - close tdm  test
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - agent creation successful
+[main] INFO AgentForm - agent method is closed
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Sip_channel_configuration_Form - sip channel creation successful
+[main] INFO Sip_channel_configuration_Form - closed sip channel configuration
+[main] INFO Test_czentrix - close sip channel configuration test
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - agent creation successful
+[main] INFO AgentForm - agent method is closed
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Sip_channel_configuration_Form - sip channel creation successful
+[main] INFO Sip_channel_configuration_Form - closed sip channel configuration
+[main] INFO Test_czentrix - close sip channel configuration test
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - close tdm  test
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - agent creation successful
+[main] INFO AgentForm - agent method is closed
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Sip_channel_configuration_Form - sip channel creation successful
+[main] INFO Sip_channel_configuration_Form - closed sip channel configuration
+[main] INFO Test_czentrix - close sip channel configuration test
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - close tdm  test
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - agent creation successful
+[main] INFO AgentForm - agent method is closed
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Sip_channel_configuration_Form - sip channel creation successful
+[main] INFO Sip_channel_configuration_Form - closed sip channel configuration
+[main] INFO Test_czentrix - close sip channel configuration test
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - close tdm  test
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - agent creation successful
+[main] INFO AgentForm - agent method is closed
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Sip_channel_configuration_Form - sip channel creation successful
+[main] INFO Sip_channel_configuration_Form - closed sip channel configuration
+[main] INFO Test_czentrix - close sip channel configuration test
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - close tdm  test
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - close tdm  test
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - close tdm  test
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - agent creation successful
+[main] INFO AgentForm - agent method is closed
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Sip_channel_configuration_Form - sip channel creation successful
+[main] INFO Sip_channel_configuration_Form - closed sip channel configuration
+[main] INFO Test_czentrix - close sip channel configuration test
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start license testcase
+[main] INFO Test_czentrix - Start tdm test case 
+[main] INFO Test_czentrix - start gateway configuration test case
+[main] INFO Gateway_ConfigurationForm - start gatWay method
+[main] INFO Gateway_ConfigurationForm - Gateway creation  successful
+[main] INFO Gateway_ConfigurationForm - closed gateway method
+[main] INFO Test_czentrix - start sip configuration testcase
+[main] INFO SipChannelsForm -  start sipChannels method 
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - start loop
+[main] INFO SipChannelsForm - SipChannels creation successful
+[main] INFO SipChannelsForm - closed sipChannels method
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - start agent testcase
+[main] INFO AgentForm - agent method is started
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - start for loop
+[main] INFO AgentForm - handle alert
+[main] INFO AgentForm - agent creation successful
+[main] INFO AgentForm - agent method is closed
+[main] INFO Test_czentrix - Start sip channel configuration test case
+[main] INFO Sip_channel_configuration_Form -  start sip_channel configuration method 
+[main] INFO Sip_channel_configuration_Form - sip channel creation successful
+[main] INFO Sip_channel_configuration_Form - closed sip channel configuration
+[main] INFO Test_czentrix - close sip channel configuration test
+[main] INFO Test_czentrix - start list testcase
+[main] INFO ListsForm - start list method
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - start loop
+[main] INFO ListsForm - list creation successful
+[main] INFO ListsForm - handle alert
+[main] INFO ListsForm - closed list method
+[main] INFO Test_czentrix - start uploadList test
+[main] INFO Test_czentrix - close uploadList test
+[main] INFO Test_czentrix - start apply configuration test
+[main] INFO Test_czentrix - close apply configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close browser test case in try block
+[main] INFO Test_czentrix - close Browser testcase

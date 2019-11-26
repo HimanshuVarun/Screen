@@ -26,7 +26,7 @@ public class Test_czentrix extends MethodClass
   //private static final Assertion Assert = null;
 	public static ExtentReports extent;
 	public static  ExtentTest   logger;
-  @BeforeTest
+  @Test
     public  void before() throws Exception 
 	{
 	  System.out.println("Start Browser test case");

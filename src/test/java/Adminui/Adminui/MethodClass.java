@@ -68,7 +68,7 @@ public class MethodClass
 		// screen shot method calling
 	    logger.info("call screen shot method");
 	     //System.out.println("call screen shot method");
-		 screen(driver, "Browser start");
+		 screen(driver, "Browser startttttttttttttttttt");
 		// check assertion
 		 logger.info(" check url assertion");
 		 System.out.println("check url assertion");

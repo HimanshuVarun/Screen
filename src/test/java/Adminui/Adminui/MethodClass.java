@@ -77,6 +77,7 @@ public class MethodClass
 		 logger.info("fill user name");
 		 System.out.println("fill user name and password");
 		 String USERNAME=Hs.getRow(1).getCell(1).getStringCellValue();
+		 screen(driver, "Browser start");
 		 driver.findElement(By.name("uid")).clear();
 		 driver.findElement(By.name("uid")).sendKeys(USERNAME);
 		// Assert.assertTrue(USERNAME.contains("adminrw"), "user name not match");
